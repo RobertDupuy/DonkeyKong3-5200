@@ -1,0 +1,30 @@
+Donkey Kong 3 - Atari 800XL adaptation / Atari 5200 port
+
+This is an unofficial homebrew adaptation. Donkey Kong, Stanley, the original
+game, and its original title design are Nintendo characters and concepts.
+The executable does not contain or emulate the arcade ROM.
+
+Music:
+"Monkeys Spinning Monkeys"
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+Original work:
+https://incompetech.com/wordpress/2014/02/monkeys-spinning-monkeys/
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011
+
+Composer-provided orchestral score:
+https://incompetech.com/music/royalty-free/sheetmusic/MSM%20Sheet%20Music.zip
+
+Changes: reduced three-voice Atari POKEY arrangement of the opening 16 bars;
+the principal flute melody is played one octave lower, strings become short
+quiet accompaniment, and the excerpt loops. No original audio recording or
+samples are embedded. The arrangement matches soundtrack audition 6, with
+preview padding removed. In v0.12 the lead melody is reduced one POKEY volume
+step, with audible level-one tails retained. PAL pitch divisors are adjusted
+for the PAL clock.
+
+The title screen contains the title, composer, source domain, license name
+and URL, and notice that this is an Atari arrangement. This file provides
+the full source links and adaptation details.
